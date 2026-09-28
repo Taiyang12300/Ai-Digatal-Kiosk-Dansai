@@ -51,7 +51,7 @@ window.seenFaceDescriptors = [];
 const FACE_MATCH_THRESHOLD = 0.45; 
 
 let isAtHome = true;
-const GAS_URL = "https://script.google.com/macros/s/AKfycbycksNLQnAvB6k0VKGoffG2imIfeYATcZRqztcKzYC274UpOVQtBmYnMI-SBAXiI_0deQ/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbziDUnbSokxdQbffRCeue75xebdb3DDQ0Q8TXCusErv_BK8-rtdguid8-2wFGq3PtN2/exec";
 
 let idleTimer = null;
 let speechSafetyTimeout = null;
